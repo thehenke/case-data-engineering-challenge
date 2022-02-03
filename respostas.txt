@@ -1,0 +1,88 @@
+Qual a quantidade total de livros da base?
+Resposta: 20216
+----------------------------------------------------------------------------------------------
+Qual a quantidade de livros que possuí apenas 1 autor?
+14753
+----------------------------------------------------------------------------------------------
+Quais os 5 autores com a maior quantidade de livros?
+
+author_name               qtd
+i. Weezag                 258
+ii. Rand McNally          212
+iii. William Shakespeare  117
+iv. Matthew Preston       83
+v. Kevin Lee              83
+-----------------------------------------------------------------------------------------------
+Qual a quantidade de livros por categoria?
+
+OBS: Os resultados de todas as categorias estao no arquivo "qtd_livros_categoria.csv"
+category_name                                  qtd
+20th Century & Contemporary Classical Music     2
+20th Century History: C 1900  To C 2000        92
+21st Century History: From C 2000 -            19
+ABC                                             2
+Abnormal Psychology                            17
+                                               ..
+Zoology & Animal Sciences                      50
+Zoology: Invertebrates                          3
+Zoology: Mammals                                8
+Zoos & Wildlife Parks                           1
+Zoroastrianism                                  3
+------------------------------------------------------------------------------------------------
+Quais as 5 categorias com a maior quantidade de livros?
+
+category_name                   qtd
+Television                      2225
+Teaching Skills & Techniques    2061
+World Atlases / World Maps      1896
+Usage & Grammar Guides          1862
+Theatre Studies                 1854
+
+------------------------------------------------------------------------------------------------
+Qual o formato com a maior quantidade de livros?
+
+format_name  qtd
+Paperback    13497
+Hardback      4955
+Book           463
+Calendar       303
+CD             227
+
+------------------------------------------------------------------------------------------------
+Considerando a coluna “bestsellers-rank”, quais os 10 livros mais bem posicionados?
+
+1. After the Break : Television Theory Today     -> (3586486.0)
+2. On Latin Adverbs -> (3579654.0)
+3. Feeling Asian Modernities - Transnational Consumption of Japanese TV Dramas -> (3569736.0)
+4. Lexikon der alteren germanischen Lehnwoerter in den ostseefinnischen Sprachen, Band III : P-AE ->  (3567995.0)
+5. The Real (Arab) World: v. 2 -> (3567310.0)
+6. Multi-verb Constructions : A View from the Americas -> (3565119.0)
+7. The Noun Phrase in Ancient Greek : A Functional Analysis of the Order and Articulation of NP Constituents in Herodotus -> (3564946.0)
+8. Ghost Journal -> (3555958.0)
+9. Handbook of Generative Approaches to Language Acquisition -> (3546984.0)
+10. Ghost Stories of Arizona and New Mexico -> (3546676.0)
+
+------------------------------------------------------------------------------------------------
+Considerando a coluna “rating-avg”, quais os 10 livros mais bem posicionados?
+
+
+The Early Shows : A Reference Guide to Network and Syndicated PrimeTime Television Series from 1944 to 1949
+The Learning and Teaching of Reading and Writing
+Ask the Psychic Medium
+Collective Consciousness : How to Transcend Mass Consciousness and Become One With the Universe
+Self-Regulation in Education
+Improvised Explosives & Munitions
+Selected Writings : On Self-Organization, Philosophy, Bioethics, and Judaism
+Asia Classic, Tubed : Wall Maps Continents
+Practicing Music by Design : Historic Virtuosi on Peak Performance
+A Reading Book of the Turkish Language, with a Grammar and Vocabulary
+
+Todos com nota 5.0
+
+------------------------------------------------------------------------------------------------
+Quantos livros possuem “rating-avg” maior do que 3,5?
+Resposta: 8182
+
+------------------------------------------------------------------------------------------------
+Quantos livros tem data de publicação (publication-date) maior do que 01-01-2020?
+Resposta: 1172
